@@ -1,0 +1,12 @@
+.values h2{
+    color: #000;
+}
+.values p{
+    font-size: 20px;
+}
+.values span {
+    color: #000;
+    font-size: 20px;
+    font-weight: 700;
+    
+}

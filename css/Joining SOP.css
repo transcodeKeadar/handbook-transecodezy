@@ -1,0 +1,85 @@
+.welcome-text{
+    padding: 30px 50px;
+}
+.welcome-text h1{
+    font-size: 42px;
+    line-height: 60px;
+    font-weight: 700;
+    color: #0b75d6;
+    margin-bottom: 20px;
+    margin-bottom: 20px;
+}
+.welcome-text p{
+    font-size: 18px;
+    /* font-family: roboto; */
+    color: #00000096;
+    
+    line-height: 27px;
+    /* background-color: skyblue; */
+}
+.text-item li  {
+    font-size: 30px;
+    color: #000;
+   }
+   .welcome-text span{
+   
+    background-color: #0b75d6;
+    color: #fff;
+    border-radius: 50%;
+    padding: 2px 10px ;
+   }
+
+   .office{
+    display: flex;
+}
+.welcome-text span {
+
+    background-color: #0b75d6;
+    color: #fff;
+    border-radius: 50%;
+    padding: 1px 8px;
+    font-size: 20px;
+    text-align: center;
+    width: 100%;
+    max-width: 30px;
+    height:100%;
+    max-height: 30px;
+}
+
+.welcome .behavior-list {
+    counter-reset: list;
+    list-style: none;
+    padding-left: 45px;
+}
+.welcome .behavior-list li:after {
+    height: 28px;
+    width: 28px;
+    background: #0b75d6;
+    border-radius: 50%;
+    z-index: -1;
+    padding: 0;
+    content: counter(list, decimal);
+    counter-increment: list;
+    left: -45px;
+    position: absolute;
+    text-align: center;
+    font-weight: 600;
+    font-size: 17px;
+    top: 10px;
+}
+.welcome .behavior-list li  {
+    margin-bottom: 10px;
+    background: #e7f1ff;
+    border: 2px solid #dfdfdf;
+    border-radius: 9px;
+    padding: 10px;
+    position: relative;
+    color: #fff;
+}
+.behavior-list p{
+    color: #000;
+}
+.welcome strong{
+    font-size: 20px;
+    color: #000;
+}

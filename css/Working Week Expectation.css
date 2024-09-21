@@ -1,0 +1,12 @@
+.Pre-approval{
+    padding: 30px 50px ;
+}
+.Pre-approval span{
+    background-color: skyblue;
+    border-radius: 50%;
+    padding: 5px 10px;
+    color: #000;
+}
+.Pre-approval h2{
+    color: #000;
+}

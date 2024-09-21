@@ -1,0 +1,49 @@
+.welcome h2 {
+    color: #000;
+    font-size: 30px;
+}
+
+.up-text {
+    padding: 30px 50px;
+}
+
+.up-text h1 {
+    font-family: 'roboto';
+    font-size: 35px;
+    color: #0b75d6;
+    font-weight: 700;
+}
+
+.up-text h5 {
+    font-size: 20px;
+    color: #000;
+}
+
+.item-text {
+    padding: 30px 50px;
+}
+
+.item-text h1 {
+    font-size: 25px;
+    color: #000;
+    font-weight: 700;
+    font-family: 'roboto';
+}
+
+.Conflict {
+    background-color: #7ba0d3;
+    border-radius: 10px;
+    padding: 30px 65px;
+    color: #000;
+
+}
+
+.Conflict img {
+    height: 130px;
+    width: 130px;
+    text-align: center;
+}
+.heading-section p{
+ align-items: center;
+ font-size: 18px;
+}

@@ -1,0 +1,24 @@
+.give p{
+    color: #000;
+}
+.computer h1{
+    font-weight: 600;
+    font-size: 40px;
+    color: #000;
+}
+.computer{
+    padding: 30px 50px ;
+}
+.computer p{
+    font-size: 20px;
+    /* font-family: roboto; */
+    color: #00000096;
+    line-height: 27px;
+}
+.text-item li  {
+ font-size: 30px;
+ color: #000;
+}
+.text-item h1{
+    font-size: 25px;
+}

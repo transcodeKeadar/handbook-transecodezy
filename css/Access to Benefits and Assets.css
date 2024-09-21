@@ -1,0 +1,21 @@
+.welcome h3{
+    color: #000;
+    font-size: 30px;
+    font-weight: 600;
+}
+.from h6{
+    color: #333;
+    font-size: 30px;
+    font-weight: 500;
+}
+.from{
+    padding: 20px 50px;
+}
+.from p{
+    color: #000;
+    font-size: 20px;
+}
+.text-item li  {
+    font-size: 30px;
+    color: #000;
+   }
